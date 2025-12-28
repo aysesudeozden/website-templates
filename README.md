@@ -63,4 +63,4 @@ Contributions are welcome! If you have a template you'd like to share:
 
 ---
 
-*Created by [Ayşe Sude Özden*](https://www.google.com/search?q=https://github.com/aysesudeozden)
+*Created by [Ayşe Sude Özden](https://www.google.com/search?q=https://github.com/aysesudeozden)*
