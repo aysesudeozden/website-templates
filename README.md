@@ -1,10 +1,5 @@
-Based on your repository and the description you provided, I have rewritten your `README.md` to be more professional, visually structured, and user-friendly.
 
-This version highlights the templates, provides clear instructions, and uses the exact sentence you requested at the top.
-
----
-
-# 🌐 website-templates
+#🌐 website-templates
 
 **Various templates for your website and portfolio.**
 
