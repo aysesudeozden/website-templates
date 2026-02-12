@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 3-Wavy Landing Template / Dalgalı Açılış Sayfası Şablonu
 
-## Getting Started
+This project is a modern landing page template featuring dynamic background wave effects, built with Next.js 16.
 
-First, run the development server:
+🇬🇧 **English** | 🇹🇷 **Türkçe**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🇬🇧 English
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Features
+*   **Dynamic Background:** A visually striking full-page wave animation.
+*   **Smooth Scroll:** "Explore" button smoothly scrolls to the focus content.
+*   **Intersection Observer:** Elements fade in and appear as you scroll down the page.
+*   **Modern Typography:** Clean and readable layout focused on user engagement.
+*   **Responsive:** Fully adaptive design for mobile, tablet, and desktop.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Getting Started
 
-## Learn More
+1.  **Install Dependencies:**
+    ```bash
+    npm install
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+2.  **Run Development Server:**
+    ```bash
+    npm run dev
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3.  **Open in Browser:**
+    Navigate to [http://localhost:3000](http://localhost:3000).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🇹🇷 Türkçe
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Özellikler
+*   **Dinamik Arka Plan:** Görsel olarak etkileyici, tam sayfa dalga animasyonu.
+*   **Yumuşak Kaydırma:** "Keşfet" butonu ile odak içeriğe yumuşak bir geçiş.
+*   **Kesişim Gözlemcisi (Intersection Observer):** Sayfayı aşağı kaydırdıkça öğeler belirginleşerek görünür olur.
+*   **Modern Tipografi:** Kullanıcı etkileşimine odaklanan temiz ve okunabilir düzen.
+*   **Duyarlı Tasarım:** Mobil, tablet ve masaüstü için tam uyumlu yapı.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Başlarken
+
+1.  **Bağımlılıkları Yükleyin:**
+    ```bash
+    npm install
+    ```
+
+2.  **Geliştirme Sunucusunu Başlatın:**
+    ```bash
+    npm run dev
+    ```
+
+3.  **Tarayıcıda Açın:**
+    Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine gidin.
