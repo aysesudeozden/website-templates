@@ -1,66 +1,36 @@
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
----
+## Getting Started
 
-## 🌐 website-templates
-
-**Various templates for your website and portfolio.**
-
-Welcome to the **website-templates** repository! This is a curated collection of high-quality, responsive, and easy-to-use templates designed to help you launch your personal brand, portfolio, or business website in minutes.
-
----
-
-## ✨ Key Features
-
-* 📱 **Fully Responsive:** Optimized for mobile, tablet, and desktop.
-* 🎨 **Modern Design:** Clean aesthetics tailored for portfolios and professional sites.
-* ⚡ **Lightweight:** Fast loading times with clean, organized code.
-* 🛠️ **Easy Customization:** Well-commented files making it simple to swap in your own content.
-
-## 📂 What's Inside?
-
-This repository contains a variety of layout styles, including:
-
-* **Personal Portfolios:** Perfect for developers, designers, and freelancers.
-* **Landing Pages:** Great for products, services, or personal bio links.
-* **Minimalist Designs:** Focused on typography and content.
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
+First, run the development server:
 
 ```bash
-git clone https://github.com/aysesudeozden/website-templates.git
-
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-### 2. Choose a Template
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Navigate into the repository and browse the folders. Each folder contains a standalone template.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### 3. Customize & Deploy
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-Open the `index.html` file in your favorite code editor (like VS Code), update the text and images, and you're ready to host it on **GitHub Pages**, **Vercel**, or **Netlify**!
+## Learn More
 
-## 🛠️ Built With
+To learn more about Next.js, take a look at the following resources:
 
-* **HTML5** & **CSS3**
-* **JavaScript** (for interactivity)
-* *Optional frameworks depending on the template (e.g., Bootstrap, Tailwind)*
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 🤝 Contributing
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-Contributions are welcome! If you have a template you'd like to share:
+## Deploy on Vercel
 
-1. Fork the repo.
-2. Create your feature branch (`git checkout -b feature/NewTemplate`).
-3. Commit your changes (`git commit -m 'Add NewTemplate'`).
-4. Push to the branch (`git push origin feature/NewTemplate`).
-5. Open a Pull Request.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
----
-
-**License:** Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-*Created by [Ayşe Sude Özden](https://www.google.com/search?q=https://github.com/aysesudeozden)*
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
