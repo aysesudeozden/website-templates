@@ -1,65 +1,87 @@
-# Website Templates / Web Sitesi Şablonları
+# 🌐 Website Templates / Web Sitesi Şablonları
 
-🇬🇧 **English** | 🇹🇷 **Türkçe**
+Welcome to the **Website Templates** collection. A curated set of high-quality, responsive, and modern Next.js templates for various use cases.
+
+**[English](https://www.google.com/search?q=%23-english)** • **[Türkçe](https://www.google.com/search?q=%23-t%C3%BCrk%C3%A7e)**
 
 ---
 
 ## 🇬🇧 English
-Welcome to the **Website Templates** collection. This repository contains three distinct Next.js website templates designed for different use cases.
 
-### Available Templates
+### 🚀 Available Templates
 
-1.  **[1-query (Portfolio)](./1-query)**
-    *   **Description:** A sleek, modern personal portfolio template.
-    *   **Key Features:** Dark/Light mode toggle, smooth slide-up animations, responsive navigation, and a contact section.
-    *   **Best For:** Developers, designers, and creatives showcase their work.
+| Template | Preview | Key Features | Best For |
+| --- | --- | --- | --- |
+| **[1-query](https://www.google.com/search?q=./1-query)** | 💼 | Dark/Light mode, Slide-up animations, Responsive | Portfolios, Resumes |
+| **[2-squares](https://www.google.com/search?q=./2-squares)** | 🍱 | Bento Grid layout, Colorful cards, Resource hub | Link-in-bio, Dashboards |
+| **[3-wavy](https://www.google.com/search?q=./3-wavy)** | 🌊 | Fluid wave background, Smooth scroll, Modern typography | Landing Pages, Events |
 
-2.  **[2-squares (Grid/Bento)](./2-squares)**
-    *   **Description:** A vibrant, grid-based layout inspired by Bento designs.
-    *   **Key Features:** Colorful card-based navigation, responsive grid container, and a "Report of the Year" style layout.
-    *   **Best For:** Corporate links, resources hubs, or playful "Link in Bio" pages.
+### 🛠️ Getting Started
 
-3.  **[3-wavy (Landing Page)](./3-wavy)**
-    *   **Description:** A dynamic landing page featuring fluid animations.
-    *   **Key Features:** Full-screen wave background effect, smooth scroll interactions, and modern typography.
-    *   **Best For:** Product landing pages, event sites, or modern corporate intros.
+1. **Clone the repository:**
+```bash
+git clone https://github.com/username/repository-name.git
 
-### Getting Started
-To use any of these templates, navigate to the specific directory and install dependencies:
+```
 
+
+2. **Choose a template and install:**
 ```bash
 cd 1-query # or 2-squares, 3-wavy
 npm install
-npm run dev
+
 ```
+
+
+3. **Run the development server:**
+```bash
+npm run dev
+
+```
+
+
 
 ---
 
 ## 🇹🇷 Türkçe
-**Web Sitesi Şablonları** koleksiyonuna hoş geldiniz. Bu depo, farklı kullanım durumları için tasarlanmış üç farklı Next.js şablonu içerir.
 
-### Mevcut Şablonlar
+### 🚀 Mevcut Şablonlar
 
-1.  **[1-query (Portfolyo)](./1-query)**
-    *   **Açıklama:** Şık ve modern bir kişisel portfolyo şablonu.
-    *   **Öne Çıkanlar:** Karanlık/Aydınlık mod geçişi, yukarı kayan animasyonlar, duyarlı navigasyon ve iletişim bölümü.
-    *   **Kullanım Alanı:** Geliştiriciler, tasarımcılar ve yaratıcı profesyonellerin çalışmalarını sergilemesi için idealdir.
+| Şablon | Önizleme | Öne Çıkan Özellikler | En İyi Kullanım |
+| --- | --- | --- | --- |
+| **[1-query](https://www.google.com/search?q=./1-query)** | 💼 | Karanlık/Aydınlık mod, Kaydırma animasyonları | Portfolyo, CV |
+| **[2-squares](https://www.google.com/search?q=./2-squares)** | 🍱 | Bento Izgara düzeni, Renkli kartlar | Link-in-bio, Kaynak Merkezi |
+| **[3-wavy](https://www.google.com/search?q=./3-wavy)** | 🌊 | Akıcı dalga efekti, Yumuşak kaydırma | Açılış Sayfaları, Etkinlikler |
 
-2.  **[2-squares (Izgara/Bento)](./2-squares)**
-    *   **Açıklama:** Bento tasarımlarından ilham alan, canlı ve ızgara tabanlı bir düzen.
-    *   **Öne Çıkanlar:** Renkli kart tabanlı navigasyon, duyarlı ızgara yapısı ve "Yılın Raporu" tarzı bir düzen.
-    *   **Kullanım Alanı:** Kurumsal bağlantılar, kaynak merkezleri veya eğlenceli "Link in Bio" sayfaları.
+### 🛠️ Başlarken
 
-3.  **[3-wavy (Açılış Sayfası)](./3-wavy)**
-    *   **Açıklama:** Akıcı animasyonlar içeren dinamik bir açılış sayfası.
-    *   **Öne Çıkanlar:** Tam ekran dalga arka plan efekti, yumuşak kaydırma etkileşimleri ve modern tipografi.
-    *   **Kullanım Alanı:** Ürün tanıtım sayfaları, etkinlik siteleri veya modern kurumsal girişler için uygundur.
+1. **Depoyu klonlayın:**
+```bash
+git clone https://github.com/kullanici-adi/repo-adi.git
 
-### Başlarken
-Bu şablonlardan herhangi birini kullanmak için, ilgili klasöre gidin ve bağımlılıkları yükleyin:
+```
 
+
+2. **Bir şablon seçin ve yükleyin:**
 ```bash
 cd 1-query # veya 2-squares, 3-wavy
 npm install
-npm run dev
+
 ```
+
+
+3. **Geliştirme sunucusunu başlatın:**
+```bash
+npm run dev
+
+```
+
+
+
+---
+
+## 📄 License / Lisans
+
+This project is licensed under the MIT License.
+
+---
