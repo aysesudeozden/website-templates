@@ -20,7 +20,7 @@ Welcome to the **Website Templates** collection. A curated set of high-quality, 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/aysesudeozden/website-templates.git
 
 ```
 
