@@ -57,7 +57,7 @@ npm run dev
 
 1. **Depoyu klonlayın:**
 ```bash
-git clone https://github.com/kullanici-adi/repo-adi.git
+git clone https://github.com/aysesudeozden/website-templates.git
 
 ```
 
