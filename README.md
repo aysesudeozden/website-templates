@@ -1,7 +1,3 @@
-Anladım, dış bağlantıları (Google aramaları ve GitHub linkleri) temizleyerek sadece içeriğe ve yapıya odaklanan sade bir sürüm hazırladım. Görseller için standart Markdown formatını bıraktım, böylece sadece dosya yollarını belirterek kullanabilirsin.
-
----
-
 # 🌐 Website Templates / Web Sitesi Şablonları
 
 Welcome to the **Website Templates** collection. A curated set of high-quality, responsive, and modern Next.js templates for various use cases.
@@ -14,9 +10,9 @@ Welcome to the **Website Templates** collection. A curated set of high-quality, 
 
 | Template | Preview Screenshot | Key Features | Best For |
 | --- | --- | --- | --- |
-| **1-query** |  | Dark/Light mode, Slide-up animations | Portfolios, Resumes |
-| **2-squares** |  | Bento Grid layout, Colorful cards | Link-in-bio, Dashboards |
-| **3-wavy** |  | Fluid wave background, Smooth scroll | Landing Pages, Events |
+| **1-query** | ![Preview](/images/query.png) | Dark/Light mode, Slide-up animations | Portfolios, Resumes |
+| **2-squares** | ![Preview](/images/squares.png) ![Preview](/images/squarespage.png)| Bento Grid layout, Colorful cards | Link-in-bio, Dashboards |
+| **3-wavy** | ![Preview](/images/wavy.png) ![Preview](/images/wavypage.png) | Fluid wave background, Smooth scroll | Landing Pages, Events |
 
 ### 🛠️ Getting Started
 
@@ -50,9 +46,9 @@ npm run dev
 
 | Şablon | Ekran Görüntüsü | Öne Çıkan Özellikler | En İyi Kullanım |
 | --- | --- | --- | --- |
-| **1-query** |  | Karanlık/Aydınlık mod, Kaydırma animasyonları | Portfolyo, CV |
-| **2-squares** |  | Bento Izgara düzeni, Renkli kartlar | Link-in-bio, Kaynak Merkezi |
-| **3-wavy** |  | Akıcı dalga efekti, Yumuşak kaydırma | Açılış Sayfaları, Etkinlikler |
+| **1-query** | ![Preview](/images/query.png) | Karanlık/Aydınlık mod, Kaydırma animasyonları | Portfolyo, CV |
+| **2-squares** | ![Preview](/images/squares.png) ![Preview](/images/squarespage.png) | Bento Izgara düzeni, Renkli kartlar | Link-in-bio, Kaynak Merkezi |
+| **3-wavy** | ![Preview](/images/wavy.png) ![Preview](/images/wavypage.png) | Akıcı dalga efekti, Yumuşak kaydırma | Açılış Sayfaları, Etkinlikler |
 
 ### 🛠️ Başlarken
 
@@ -83,9 +79,3 @@ npm run dev
 ## 📄 License / Lisans
 
 This project is licensed under the MIT License.
-
----
-
-**Dosya yapısı hakkında not:** Görsellerin görünmesi için projenin ana dizininde `public/screenshots/` klasörü açıp içine ilgili `.png` dosyalarını eklemen yeterli olacaktır.
-
-Başka bir düzenleme yapmamı ister misin?
